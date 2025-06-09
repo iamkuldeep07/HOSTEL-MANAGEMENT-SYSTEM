@@ -1,4 +1,4 @@
-# NITM Hostel Management System Backend
+# Hostel Management System Backend
 
 This is the backend for a **Hostel Management System** designed for a college with three hostels (Hostel A, Hostel B, Hostel C) at NIT Meghalaya (NITM). The system manages student registrations, room allocations, hostel-specific mess menus, complaints, fee payments, leave requests, visitor tracking, and automated notifications. It is built using Node.js, Express, MongoDB, and other modern technologies, ensuring scalability, security, and role-based access control for students, wardens, and admins.
 
